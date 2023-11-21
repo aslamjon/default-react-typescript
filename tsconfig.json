@@ -18,5 +18,6 @@
 		"baseUrl": "src"
 		// "typeRoots": ["./node_modules/@types", "src/types"]
 	},
+	"files": ["src/types/index.d.ts"],
 	"include": ["src"]
 }
